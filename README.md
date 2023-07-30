@@ -17,6 +17,8 @@ Navigate to the project directory and run npm install to install the required de
 Run npm start to start the development server.
 
 Access the app in your web browser at http://localhost:3000.
+![demo_pic](https://github.com/simonmec0/expense_tracker/assets/100505278/0aaba8a3-d1b8-4112-87be-b7996a8e6a2b)
+
 
 Thank you for using the Expense Tracker App!
 We hope it helps you manage your expenses efficiently and achieve your financial goals.
